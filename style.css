@@ -9,7 +9,7 @@ body{
 header{
   background:#1a1a2e;
   color:#fff;
-  padding20px;
+  padding:20px;
   border-radius:8px;
 }
 card{
@@ -18,11 +18,11 @@ card{
   margin:15px auto;
   max-width:400px;
   border-radius:8px;
-  box-shadow:0 2px 5px rgba(0,0,0
+  box-shadow:0 2px 5px rgba(0,0,0,0.1);
    }
 ul {
   list-style-tyle; none;
-  padding;0;
+  padding: 0;
 }
 li{
   padding:6px 0;
@@ -35,7 +35,8 @@ input{
   border-radius:4px
 }
 button{
-  background:#fff;
+  background:#e94560;
+  color:#fff;
   border:none;
   padding:10px 20px;
   border-radius:4px;
